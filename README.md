@@ -1,5 +1,7 @@
 # yasnippet-popup
 
+*THIS IS NOT DONE, MORE OR LESS JUST COPIED FROM MY INIT.EL, PLEASE AVOID ADDING IT TO MELPA JUST BECAUSE IT IS POSSIBLE :)*
+
 ## Summary
 
 YAsnippet prompt using popup.el
